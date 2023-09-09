@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Wilson420440
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I'm Wilson 👋🏾 👩🏾‍💻
 
-<!---
-Wilson420440/Wilson420440 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+I'm a software developer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include Python , React ,Django , Bootstrap and MySQL . My interest in python programming led to embark on Machine Learning and Artificial Intelligence projects. I am really looking to collaborate with anyone who is interested in the stated above projects and i am currently working on a certain machine learning project!
+Find me around the web 🌎:
+wilsonmaseko94@gmail.com 📹 ✍🏾
+wilson23.pythonanywhere.com
+Sharing updates on LinkedIn 💼
